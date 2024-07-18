@@ -1,7 +1,7 @@
 import React from "react";
 
 const UserIcon = () => {
-  return <div></div>;
+  return <div>UserIcon</div>;
 };
 
 export default UserIcon;
